@@ -307,7 +307,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 25F);
-            this.label5.Location = new System.Drawing.Point(12, 491);
+            this.label5.Location = new System.Drawing.Point(89, 469);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(265, 46);
             this.label5.TabIndex = 23;
@@ -317,7 +317,7 @@
             // 
             this.lblMoveNumber.AutoSize = true;
             this.lblMoveNumber.Font = new System.Drawing.Font("Segoe UI", 25F);
-            this.lblMoveNumber.Location = new System.Drawing.Point(274, 491);
+            this.lblMoveNumber.Location = new System.Drawing.Point(351, 469);
             this.lblMoveNumber.Name = "lblMoveNumber";
             this.lblMoveNumber.Size = new System.Drawing.Size(38, 46);
             this.lblMoveNumber.TabIndex = 32;
@@ -327,7 +327,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(873, 547);
+            this.ClientSize = new System.Drawing.Size(864, 521);
             this.Controls.Add(this.lblMoveNumber);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.panel3);
